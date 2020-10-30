@@ -1,0 +1,32 @@
+
+h1{
+    text-align: center;
+    font-weight: 500;
+    font-size: 10vw;
+}
+
+
+#inputDiv{
+    text-align: center;
+}
+
+input{
+    text-align: center;
+    font-size: medium;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    padding-left:5vw ;
+    padding-right: 5vw ;
+    border-color: lightgrey;
+    margin-bottom: 3vh;
+}
+
+input:focus {
+    border:none;
+    border-radius: 10px;
+  }
+
+  #text{
+      width: 90%;
+      margin-left: 5%;
+  }
